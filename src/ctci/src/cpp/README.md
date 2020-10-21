@@ -3,5 +3,10 @@ Resolved all problems using C++
 
 # Run instruction
 ```mkdir build
-cd build
-g++ <program>.cpp -o <program>```
+cd build``` 
+
+Then,
+```g++ <program>.cpp -o <program>```
+or,
+
+```g++ <program>.cpp -o <program> && ./<program>```
