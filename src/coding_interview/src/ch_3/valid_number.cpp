@@ -30,8 +30,6 @@ int main()
 	for (string s : str)
 	{
 		cout << s << " : " << isValid(s) << endl;
-
-
 	}
 	return 0;
 }
